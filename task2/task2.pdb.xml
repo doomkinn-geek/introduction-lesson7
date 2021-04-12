@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PdbContent>
+  <UserEntryPoint>null</UserEntryPoint>
+  <SourceFile Index="0" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">C:\Users\root\source\repos\introduction-lesson7\task2\Program.cs</SourceFile>
+  <Method Token="6000001">
+    <SequencePoints SourceFileIndex="0">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="0" StartLine="15" StartColumn="7" EndLine="15" EndColumn="35" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_00a6" IsRoot="True" Method="6000001">
+      <Scope OffsetRange="IL_0000-IL_00a6" IsRoot="False" Method="6000001">
+        <UsedNamespace>System</UsedNamespace>
+        <Scope OffsetRange="IL_0028-IL_008e" IsRoot="False" Method="6000001">
+          <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="0" Attributes="PrivateScope" Signature="">num2</LocalVariable>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000002">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000002" />
+  </Method>
+</PdbContent>

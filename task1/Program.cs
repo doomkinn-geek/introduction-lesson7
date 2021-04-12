@@ -21,6 +21,7 @@ namespace task1
             Console.WriteLine($"Результат '-' - {c}");
             c = a + b;
             Console.WriteLine($"Результат '+' - {c}");
+
         }
     }
 }
