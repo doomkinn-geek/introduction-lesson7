@@ -28,7 +28,7 @@ namespace task1
             int num7 = num2;
             Console.WriteLine(string.Format("Результат '+' - {0}", (object) (num1 + num7)));
             Console.WriteLine("Press any key to continue...");
-            Console.ReadLine();
+            Console.ReadLine(); 
     }
   }
 }
